@@ -1,2 +1,2 @@
 # atm
-atm app
+practice atm app
